@@ -1,8 +1,8 @@
-# Práctica 3.1: Listas y tuplas
+# Práctica 3.2: Diccionarios
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
-[U3: 1. Listas y tuplas](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica001/)
+[U3: 2. Diccionarios](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica002/)
 
 ---
 
